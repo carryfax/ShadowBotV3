@@ -27,7 +27,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: Bruno Sobrino* 
+║➤ *Creador del Bot: Bruno* 
 ║➤ *Numero del creador:* *wa.me/17722386341 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
 ║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
